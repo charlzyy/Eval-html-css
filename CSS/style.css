@@ -1,0 +1,152 @@
+#debut{
+  text-align: center;
+}
+#imgpresentation{
+  margin-left: 30%;
+  width: 100%;
+}
+.pbloque{
+  width: 40%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.pbloque1{
+  display: inline-block;
+  vertical-align: middle;
+  width:49%;
+  text-align: center;
+}
+.photo{
+  width: 100%
+}
+#txt1{
+  margin-right: 50px;
+  margin-left: 50px;
+}
+#photo1{
+  width: 100%
+}
+#photo{
+  width:100%;
+}
+#photo2{
+  width: 100%;
+}
+#photo3{
+  width: 100%
+}
+#imageplan{
+  padding-left: 45%;
+  padding-right: auto;
+  display: block;
+  vertical-align: middle;
+  position:relative;
+  opacity: 0.15;
+}
+footer{
+margin-top: 4%;
+}
+#ecriture{
+  position: absolute;
+  margin-top: -82px;
+  color: grey;
+  margin-left: 554px;
+  font-size: 15px;
+  letter-spacing: 3px;
+}
+/*#logo {
+padding-bottom:0px;
+}
+#logo img{
+  position:;
+}*/
+#logo{
+  position: relative;
+  width: 172px;
+  display: block;
+  margin: auto;
+  font-weight: bold;
+  text-align: center;
+}
+#logo h3{
+  left: 17%;
+  position: absolute;
+  margin-top: 50px;
+  color: grey;
+  letter-spacing: 4px;
+}
+#logo img{
+  width: 100%;
+  opacity: 0.50;
+}
+#foot{
+  text-align: center;
+}
+.decalage{
+  text-align:right;
+  margin-bottom: -7px;
+}
+h2{
+  margin-bottom:0px;
+  text-align: left;
+  margin-left: 10px;
+}
+hr{
+  opacity: 0.50;
+  width
+}
+#titre{
+  color: brown;
+}
+#long{
+  opacity: 0.50;
+  width:100%
+}
+p{
+  font-family: 'Playfair Display', serif;
+  color: black;
+}
+h1{
+  font-family: 'Prata', serif;
+  font-size: 50px;
+  margin:0;
+  letter-spacing: 16px;
+  color: black;
+}
+.blanc{
+  color:white;
+  background-color: #424242;
+  width: 42%;
+  text-align: left;
+  width: 34%;
+  margin-left: 16px;
+}
+#blanc1{
+  color:white;
+  background-color: #424242;
+  width: 42%;
+  text-align: left;
+}
+h2{
+  font-family: 'Arapey', serif;
+  letter-spacing: 11px;
+  font-size: 30px;
+  color: black;
+}
+body footer{
+  background-image: url('img/background.jpg');
+}
+span{
+  font-size: 10px;
+}
+nav{
+width:100%;
+font-family: 'Playfair Display', serif;
+margin-left: -3%;
+margin-top: -26px;
+color: black;
+}
+.inlineB{
+  display: inline-block;
+  vertical-align: middle;
+}
